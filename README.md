@@ -1,6 +1,9 @@
 # Body-Segmentation-using-bodypix
 * In this project we will try to mask our body and try to fit it in another image or we can say we transform our body to another background.
 
+# Snapshot Of Code 💫:
+<img src="bodypix.png">
+
 
 # Install Following Dependencies 👇:
 ```
